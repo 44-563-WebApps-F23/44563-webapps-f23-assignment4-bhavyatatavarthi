@@ -14,9 +14,25 @@
 }
 .KROGSTAD{
     color: blueviolet;
+    
+    
+}
+.KROGSTAD:hover{
+    color: cadetblue;
+    background-color: chocolate;
+    text-shadow: 2px 3px 5px darkgreen;
+    border: 1px  solid;
 }
 .MRS_LINDE{
   color: chartreuse;
+  
+  
+}
+.MRS_LINDE:hover{
+    color: darkcyan;
+    background-color: darkturquoise;
+    text-shadow: 3px 4px 5px darkorchid;
+    border: 1px  solid;
 }
 table, th, td{
     border: 1px solid;
