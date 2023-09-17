@@ -1,0 +1,30 @@
+.speech{
+     font-size: large;
+     color: black;
+}
+.direction{
+     font-size: medium;
+     color: black;
+     background-color: beige;
+     
+}
+.direction:hover{
+    color: black;
+    background-color: aquamarine;
+}
+.KROGSTAD{
+    color: blueviolet;
+}
+.MRS_LINDE{
+  color: chartreuse;
+}
+table, th, td{
+    border: 1px solid;
+    color: crimson;
+    text-align: center;
+    padding: 1cqmax;
+    margin: 1pc;
+}
+    tr:nth-child(even){
+        background-color: blueviolet;
+    }
